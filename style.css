@@ -3,18 +3,18 @@ html, body{
 }
 
 
-header {
+#header-top {
     background-color: #91d3d9;
     width: 100%;
-    height: 8%;
+    height: 7%;
     display: flex;
     align-items: center;
     justify-content: space-evenly; 
   }
-.header-top .boton_nav {
+#header-top .boton_nav {
     margin: 4;
     padding: 0px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', 'sans-serif';
     font-size: 120%;
     font-weight: 600; 
     color: white;
@@ -27,14 +27,113 @@ header {
     color: cyan;
 }
 
-.parte-medio-1 {
+#parte-medio-1 {
+    position: relative;
     background-color: #c4edf1;
     width: 100%;
-    height: 35%;
+    height: 40%;
   }
-  
+  #rectangulo-gris 
+  {
+    position: absolute;
+    background-color: #f2f2f2;
+    top: 10%;
+    left: 2%;
+    width: 20%;
+    height: 80%;
+  }
+  #rectangulo-gris-oscuro 
+  {
+    position: absolute;
+    background-color: #656a73;
+    width: 100%;
+    height:25%;
+  }
+  #rectangulo-blanco-1
+  {
+    position: absolute;
+    background-color: #ffffff;
+    top: 35%;
+    left: 23%;
+    width: 55%;
+    height: 8%;
 
-  .parte-medio-2 {
+  }
+  #rectangulo-blanco-2
+  {
+    position: absolute;
+    background-color: #ffffff;
+    top: 50%;
+    left: 23%;
+    width: 55%;
+    height: 8%;
+
+  } 
+  #rectangulo-blanco-3
+  {
+    position: absolute;
+    background-color: #ffffff;
+    top: 65%;
+    left: 23%;
+    width: 55%;
+    height: 8%;
+ }
+#rectangulo-celeste-1
+{
+    position: absolute;
+    background-color: #91d3d9;
+    top: 80%;
+    left: 23%;
+    width: 55%;
+    height: 8%;
+}
+#rectangulo-celeste-2
+{
+  position: absolute;
+    background-color: #91d3d9;
+    top: 9%;
+    left: 28%;
+    width: 36%;
+    height: 8%;
+}
+#rectangulo-blanco-4
+{
+  position: absolute;
+    background-color: #ffffff;
+    top: 22%;
+    left: 28%;
+    width: 50%;
+    height: 5%;
+}
+#rectangulo-blanco-5
+{
+  position: absolute;
+    background-color: #ffffff;
+    top: 30%;
+    left: 28%;
+    width: 50%;
+    height: 5%;
+}
+#rectangulo-blanco-6
+{
+  position: absolute;
+    background-color: #ffffff;
+    top: 38%;
+    left: 28%;
+    width: 50%;
+    height: 5%;
+}
+#rectangulo-blanco-7
+{
+  position: absolute;
+    background-color: #ffffff;
+    top: 46%;
+    left: 40%;
+    width: 25%;
+    height: 5%;
+}
+
+  #parte-medio-2 {
     background-color: #ffffff;
     display: flex;
     justify-content: space-between;
@@ -42,7 +141,7 @@ header {
     height: 45%;
   }
   
-  .parte-de-abajo {
+  #parte-de-abajo {
     background-color: #656a73;
     color: white;
     text-align: center;
