@@ -319,5 +319,30 @@ html, body{
     width: 100%;
     height: 6%;
   }
-  
-
+ #rectangulo-gris-claro-largo
+ {
+  position: absolute;
+  background-color: #cccbca;
+  top: 95.5%;
+  left: 10%;
+  width: 40%; 
+  height:1%;
+ }
+ #rectangulo-gris-claro-corto-1
+ {
+  position: absolute;
+  background-color: #cccbca;
+  top: 95.5%;
+  left: 67%;
+  width: 12%; 
+  height:1%;
+ }
+#rectangulo-gris-claro-corto-2
+{
+  position: absolute;
+  background-color: #cccbca;
+  top: 95.5%;
+  left: 82%;
+  width: 12%; 
+  height:1%;
+ }
