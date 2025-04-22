@@ -176,12 +176,148 @@ html, body{
     width: 40%; 
     height:1%;
   }
+  #cuadrado-celeste-1
+  {
+    position: absolute;
+    background-color: #91d3d9;
+    top: 68%;
+    left: 10%;
+    width: 19%; 
+    height:12%;
+  }
+  #cuadrado-celeste-2
+  {
+    position: absolute;
+    background-color: #91d3d9;
+    top: 68%;
+    left: 41%;
+    width: 19%; 
+    height:12%;
+  }
+  #cuadrado-celeste-3
+  {
+    position: absolute;
+    background-color: #91d3d9;
+    top: 68%;
+    left: 71%;
+    width: 19%; 
+    height:12%;
+  }
+  #linea-oscura-1
+  {
+    position: absolute;
+    background-color: #656a73;
+    top: 82%;
+    left: 10%;
+    width: 19%; 
+    height:2%;
+  }
+  #linea-oscura-2
+  {
+    position: absolute;
+    background-color: #656a73;
+    top: 82%;
+    left: 41%;
+    width: 19%; 
+    height:2%;
+  }
+  #linea-oscura-3
+  {
+    position: absolute;
+    background-color: #656a73;
+    top: 82%;
+    left: 71%;
+    width: 19%; 
+    height:2%;
+  }
+  #linea-clara-1-c1
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 85%;
+    left: 10%;
+    width: 19%; 
+    height:1%;
+  }
+  #linea-clara-2-c1
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 85%;
+    left: 41%;
+    width: 19%; 
+    height:1%;
+  }
+  #linea-clara-3-c1
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 85%;
+    left: 71%;
+    width: 19%; 
+    height:1%;
+  }
+  #linea-clara-4-c2
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 87%;
+    left: 10%;
+    width: 19%; 
+    height:1%;
+  }
+  #linea-clara-5-c2
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 87%;
+    left: 41%;
+    width: 19%; 
+    height:1%;
+  }
+  #linea-clara-6-c2
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 87%;
+    left: 71%;
+    width: 19%; 
+    height:1%;
+  }
+  #linea-clara-7-c3
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 89%;
+    left: 14%;
+    width: 12%; 
+    height:1%;
+  }
+  #linea-clara-8-c3
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 89%;
+    left: 45%;
+    width: 12%; 
+    height:1%;
+  }
+  #linea-clara-9-c3
+  {
+    position: absolute;
+    background-color: #cccbca;
+    top: 89%;
+    left: 75%;
+    width: 12%; 
+    height:1%;
+  }
+
   #parte-de-abajo {
     background-color: #656a73;
     color: white;
     text-align: center;
     width: 100%;
-    height: 8%;
+    height: 6%;
   }
   
 
